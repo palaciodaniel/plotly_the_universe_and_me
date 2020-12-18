@@ -17,4 +17,6 @@ I also created a [Binder environment](https://mybinder.org/v2/gh/palaciodaniel/p
 
 Code written from scratch by **Daniel Palacio**.
 
+Dataset created by the people behind the [Devstronomy](https://devstronomy.com/#/) project ([GitHub page](https://github.com/devstronomy/)).
+
 Sky image by **Greg Rakozy** - *Unsplash.com* (https://unsplash.com/photos/oMpAz-DN-9I)
